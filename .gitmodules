@@ -1,0 +1,3 @@
+[submodule "SpotifyC2"]
+	path = SpotifyC2
+	url = https://github.com/JohnWoodman/SpotifyC2.git
